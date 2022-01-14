@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "codewars"
+name = "basic-bst-rs"
 version = "0.1.0"
